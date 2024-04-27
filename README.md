@@ -22,6 +22,7 @@ Hackintosh EFI files for Deskmini 110
 - ✅ USB 2.0 & 3.0
 - ✅ AirDrop
 - ✅ Sleep / Wake
+- ✅ AirPlay receiver
 
 ## Not Working
 
